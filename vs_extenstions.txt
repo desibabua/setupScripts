@@ -1,0 +1,24 @@
+code spell checker
+Auto close tag
+error lens
+git graph
+git history
+git lens
+material theme
+prettier
+sqlite
+sqltools
+sql server
+default dark+
+atom one dark
+
+Quokka
+c/c++
+Es7 React
+live server
+plantUml
+react native
+styleLint-plus
+vscode icons
+electron color
+file tree view
