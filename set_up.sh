@@ -7,8 +7,8 @@ npm intall tree
 
 npm install git
 
-git config --global user.name "desibabua"
-git config --global user.email "kumarayush074@gmail.com"
+git config --global user.name "Ayush"
+git config --global user.email "ayush.kumar@thoughtworks.com"
 git config --global pull.rebase true
 git config --global alias.unstage rebase
 
